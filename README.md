@@ -1,5 +1,7 @@
 # Awesome Programming Videos
 
+An awesome curated list of videos that creates a significant impact on my programming and technical skills.
+
 + **General** The Art of Code - Dylan Beattie https://www.youtube.com/watch?v=6avJHaC3C2U
 + **General** What was Coding like 40 years ago? - https://www.youtube.com/watch?v=7r83N3c2kPw
 + **Vim** Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
