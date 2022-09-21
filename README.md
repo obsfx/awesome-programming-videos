@@ -19,6 +19,7 @@ An awesome curated list of videos that creates a significant impact on my progra
 + 'Diablo': A Classic Game Postmortem https://www.youtube.com/watch?v=VscdPA6sUkc
 + How we fit an NES game into 40 Kilobytes https://www.youtube.com/watch?v=ZWQ0591PAxM
 + The Making of: ROM City Rampage (Retro City Rampage) https://www.youtube.com/watch?v=Hvx4xXhZMrU
++ PICO-8 Making a Roguelike (Porklike) https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS
 
 ## General
 + The Art of Code - Dylan Beattie https://www.youtube.com/watch?v=6avJHaC3C2U
