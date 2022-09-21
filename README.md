@@ -16,13 +16,13 @@ An awesome curated list of videos that creates a significant impact on my progra
 + Coding Challenge #112: 3D Rendering with Rotation and Projection https://www.youtube.com/watch?v=p4Iz0XJY-Qk
 
 ## Game Development
-+ 'Diablo': A Classic Game Postmortem - https://www.youtube.com/watch?v=VscdPA6sUkc
-+ How we fit an NES game into 40 Kilobytes - https://www.youtube.com/watch?v=ZWQ0591PAxM
-+ The Making of: ROM City Rampage (Retro City Rampage) - https://www.youtube.com/watch?v=Hvx4xXhZMrU
++ 'Diablo': A Classic Game Postmortem https://www.youtube.com/watch?v=VscdPA6sUkc
++ How we fit an NES game into 40 Kilobytes https://www.youtube.com/watch?v=ZWQ0591PAxM
++ The Making of: ROM City Rampage (Retro City Rampage) https://www.youtube.com/watch?v=Hvx4xXhZMrU
 
 ## General
 + The Art of Code - Dylan Beattie https://www.youtube.com/watch?v=6avJHaC3C2U
-+ What was Coding like 40 years ago? - https://www.youtube.com/watch?v=7r83N3c2kPw
++ What was Coding like 40 years ago? https://www.youtube.com/watch?v=7r83N3c2kPw
 
 ## Go
 + Golang in under an hour (2021) https://www.youtube.com/watch?v=N0fIANJkwic
@@ -31,7 +31,7 @@ An awesome curated list of videos that creates a significant impact on my progra
 ## JavaScript
 + Composition over Inheritance https://www.youtube.com/watch?v=wfMtDGfHWpA
 + Factory Functions in JavaScript https://www.youtube.com/watch?v=ImwrezYhw4w
-+ What the heck is the event loop anyway? | Philip Roberts | JSConf EU - https://www.youtube.com/watch?v=8aGhZQkoFbQ
++ What the heck is the event loop anyway? | Philip Roberts | JSConf EU https://www.youtube.com/watch?v=8aGhZQkoFbQ
 + 10 Things I Learned from the jQuery Source https://www.youtube.com/watch?v=i_qE1iAmjFg
 
 ## Vim
