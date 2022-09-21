@@ -28,6 +28,9 @@ An awesome curated list of videos that creates a significant impact on my progra
 + Golang in under an hour (2021) https://www.youtube.com/watch?v=N0fIANJkwic
 + GopherCon 2019: Carolyn Van Slyck - Design Command-Line Tools People Love https://www.youtube.com/watch?v=eMz0vni6PAw
 
+## Inspirational
++ Tiny Lisp ComputerでLチカ https://www.youtube.com/watch?v=y4oq1_3_cn4
+
 ## JavaScript
 + Composition over Inheritance https://www.youtube.com/watch?v=wfMtDGfHWpA
 + Factory Functions in JavaScript https://www.youtube.com/watch?v=ImwrezYhw4w
