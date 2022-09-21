@@ -32,16 +32,8 @@ An awesome curated list of videos that creates a significant impact on my progra
 + Composition over Inheritance https://www.youtube.com/watch?v=wfMtDGfHWpA
 + Factory Functions in JavaScript https://www.youtube.com/watch?v=ImwrezYhw4w
 + What the heck is the event loop anyway? | Philip Roberts | JSConf EU - https://www.youtube.com/watch?v=8aGhZQkoFbQ
++ 10 Things I Learned from the jQuery Source https://www.youtube.com/watch?v=i_qE1iAmjFg
 
 ## Vim
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
 + How to Do 90% of What Plugins Do (With Just Vim) https://www.youtube.com/watch?v=XA2WjJbmmoM
-+ 10 Things I Learned from the jQuery Source https://www.youtube.com/watch?v=i_qE1iAmjFg
-
-
-
-
-
-
-
-
