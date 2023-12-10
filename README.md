@@ -24,6 +24,7 @@ An awesome curated list of videos that creates a significant impact on my progra
 ## General
 + The Art of Code - Dylan Beattie https://www.youtube.com/watch?v=6avJHaC3C2U
 + What was Coding like 40 years ago? https://www.youtube.com/watch?v=7r83N3c2kPw
++ DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend - https://www.youtube.com/watch?v=fWk_rMQiDGc
 
 ## Go
 + Golang in under an hour (2021) https://www.youtube.com/watch?v=N0fIANJkwic
