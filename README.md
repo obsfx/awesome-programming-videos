@@ -41,6 +41,7 @@ An awesome curated list of videos that creates a significant impact on my progra
 + 10 Things I Learned from the jQuery Source https://www.youtube.com/watch?v=i_qE1iAmjFg
 + Async JavaScript with Reactive Extensions https://www.youtube.com/watch?v=XRYN2xt11Ek
 + Code Walkthrough for Next.js 13 / Tailwind CSS / MySQL App! https://www.youtube.com/watch?v=jeBy4vIBqw0
++ Christoph Nakazawa - How Not to Build a Video Game, React Summit 2023 https://www.youtube.com/watch?v=m8SmXOTM8Ec
 
 ## Vim
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
